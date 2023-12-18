@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Sylva",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/notion-avatar-1702909452117.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Développeur",
     bio: "Je suis Fullstack développeur PHP & Javascript",
     email: "etosylva@yahoo.fr",
@@ -18,15 +18,15 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to my space!",
+    title: "Sylva",
+    description: "Bienvenue dans mon espace!",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://sylva-ur4m.vercel.app",
   since: "", // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  lang: "fe-FR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  ogImageGenerateURL: "https://sylva-ur4m.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
