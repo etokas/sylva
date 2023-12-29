@@ -25,7 +25,7 @@ const CONFIG = {
   // CONFIG configration (required)
   link: "https://eto-sylva.tech",
   since: "", // If leave this empty, current year will be used.
-  lang: "fe-FR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "fr-FR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://eto-sylva.tech", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
@@ -35,7 +35,7 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
     },
