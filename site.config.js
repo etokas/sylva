@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Sylva",
     image: "/notion-avatar-1702909452117.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Développeur",
-    bio: "Je suis Fullstack développeur PHP & Javascript",
+    bio: "Je suis développeur Full Stack spécialisé en PHP & ReactJs",
     email: "etosylva@yahoo.fr",
     linkedin: "sylva-etokabeka-29a5b56a",
     github: "etokas",
